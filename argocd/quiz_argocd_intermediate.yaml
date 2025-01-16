@@ -15,7 +15,7 @@ questions:
     source: https://argo-cd.readthedocs.io/en/stable/user-guide/sync-waves/
 
   - id: argocd_i2
-    question: How can you implement automated sync in ArgoCD?
+    question: How can you implement automated sync in ArgoCD? (caution: not auto refresh)
     options:
       - By setting automated sync policies directly in the Application specifications
       - By configuring external automation tools to trigger synchronization
